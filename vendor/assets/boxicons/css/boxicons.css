@@ -4,12 +4,12 @@
     font-weight: normal;
     font-style: normal;
 
-    src: url('vendor/boxiconscons.eot');
-    src: url('vendor/boxiconscons.eot') format('embedded-opentype'),
-    url('vendor/boxiconscons.woff2') format('woff2'),
-    url('vendor/boxiconscons.woff') format('woff'),
-    url('vendor/boxiconscons.ttf') format('truetype'),
-    url('vendor/boxiconscons.svg?#boxicons') format('svg');
+    src: url('boxicons.eot');
+    src: url('boxicons.eot') format('embedded-opentype'),
+    url('boxicons') format('woff2'),
+    url('boxicons') format('woff'),
+    url('boxicons.ttf') format('ttf'),
+    url('boxicons') format('svg');
 }
 .bx
 {

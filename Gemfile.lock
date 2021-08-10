@@ -191,7 +191,6 @@ GEM
       thread_safe (~> 0.1)
     tzinfo-data (1.2021.1)
       tzinfo (>= 1.0.0)
-    wdm (0.1.1)
     web-console (4.1.0)
       actionview (>= 6.0.0)
       activemodel (>= 6.0.0)
@@ -231,7 +230,6 @@ DEPENDENCIES
   sqlite3 (~> 1.4)
   turbolinks (~> 5)
   tzinfo-data
-  wdm (>= 0.1.0)
   web-console (>= 3.3.0)
   webdrivers
   webpacker (~> 4.0)
@@ -241,4 +239,4 @@ RUBY VERSION
    ruby 3.0.2p107
 
 BUNDLED WITH
-   1.17.3
+   2.2.22
